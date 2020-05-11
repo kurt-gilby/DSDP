@@ -4,5 +4,5 @@ This repository will be used to store the work being done for the DSDP projects 
 # File Index
 1. McDonald_Menu.csv
   * This is the Input Dataset with the Nutrition value of the McDonald menu(United States)
- 1.McdonaldMenuDataAnalytics.ipynb
+1.McdonaldMenuDataAnalytics.ipynb
    * This is the Jupyter notebook used to run the python codes on the data.
